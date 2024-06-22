@@ -3,6 +3,6 @@ public class Main {
     System.out.println("Hello SEMonster");
     Monster monster = new Monster();
     System.out.println(monster.toString());
-    System.out.println(monster.toString());
+    
   }
 }
